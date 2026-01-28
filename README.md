@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/logo.png" alt="logo"></p>   
 
-A modern color theme for the Godot 4 text editor (recommended for Godot 4.6+), inspired by the [Moonlight II Theme](https://github.com/atomiks/moonlight-vscode-theme) for Visual Studio Code.
+A modern color theme for the Godot 4 text editor, inspired by the [Moonlight II Theme](https://github.com/atomiks/moonlight-vscode-theme) for Visual Studio Code.
 
 ## Variants
 
